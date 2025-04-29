@@ -22,7 +22,7 @@ This tool simulates a lightweight, privacy-respecting screening assistant that t
 - Optional: AI-generated diagnosis summary using OpenAI
 
 ---
-## Project Structure
+### Project Structure
 
 autism-screening-ai-tool/
 │
