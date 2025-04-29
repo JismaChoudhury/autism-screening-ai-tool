@@ -36,7 +36,7 @@ autism-screening-ai-tool/
 └── LICENSE                # License file (optional)
 
 
-
+---
 
 ## 📊 Dataset
 
