@@ -8,7 +8,10 @@ This project is designed for educational and demonstration purposes, showcasing 
 ## Project Overview
 
 Autism diagnosis is a complex and multi-step process, often delayed due to limited access to screening resources.  
-This tool simulates a lightweight, privacy-respecting screening assistant that takes user inputs (age, behavioral traits, etc.) and predicts the likelihood of ASD using classification algorithms. It also provides model explainability insights using SHAP or LIME.
+This tool simulates a lightweight, privacy-respecting screening assistant that takes user inputs (age, behavioral traits, etc.) and predicts the likelihood of ASD using both traditional machine learning models and deep learning techniques (e.g., Deep Neural Networks).  
+It also provides explainability insights using SHAP to interpret model predictions.  
+
+Future extensions may incorporate visual data (e.g., eye-tracking) and deep learning models such as CNNs and RNNs to enhance diagnostic accuracy.
 
 ---
 
