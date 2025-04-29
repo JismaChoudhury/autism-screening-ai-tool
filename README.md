@@ -42,6 +42,8 @@ autism-screening-ai-tool/
 
 - **Source**: [Autism Screening Adult Dataset - UCI ML Repository](https://archive.ics.uci.edu/ml/datasets/Autism+Screening+Adult+Data+Set)
 - https://archive.ics.uci.edu/ml/datasets/Autism+Screening+Adult+Data+Set
+
+-   https://archive.ics.uci.edu/dataset/426/autism+screening+adult
 - Features: Age, gender, family history, responses to 10 behavioral screening questions
 - Target: ASD classification (ASD or Not ASD)
 
